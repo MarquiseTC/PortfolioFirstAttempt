@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+Following this Youtube tutotial 
+https://www.youtube.com/watch?v=4ag1LsgIUc0&t=1794s
+
+I created the first attempt at a portfolio website. This website will continue to grow as I learn how to incluse more features. 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
